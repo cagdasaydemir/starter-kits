@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main}`}>
-        <h1 >next-bootstrap-starter</h1>
+        <h1 >next-ts-bootstrap</h1>
       </main>
     </>
   );
